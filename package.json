@@ -3,9 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/react-router-dom": "^4.3.5",
+    "cuid": "^2.1.6",
+    "date-fns": "^2.1.0",
     "react": "^16.9.0",
+    "react-datepicker": "2.7.0",
     "react-dom": "^16.9.0",
+    "react-lazyload": "^2.5.0",
+    "react-redux": "^5.1.1",
+    "react-redux-firebase": "^2.2.6",
+    "react-redux-toastr": "^7.4.10",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1",
+    "redux": "^4.0.4",
+    "redux-auth-wrapper": "^2.1.0",
+    "redux-form": "^7.4.2",
+    "redux-thunk": "^2.3.0",
+    "revalidate": "^1.2.0",
     "semantic-ui-react": "^0.88.0"
   },
   "scripts": {
